@@ -7,7 +7,7 @@ Hello World!
  Mihai t-> p No conflict
 
  Conflict 1
- 
+
  Conflict 2
 
 
@@ -33,4 +33,5 @@ readme.md
 b2
 -------
 rd.md
+
 
