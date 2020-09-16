@@ -6,7 +6,10 @@ Hello World!
 
  Mihai t-> p No conflict
 
+ Conflict 1
+ 
  Conflict 2
+
 
         T1   T2  T3
 MAster  x
@@ -30,3 +33,4 @@ readme.md
 b2
 -------
 rd.md
+
